@@ -1,4 +1,4 @@
-# 🏥 Healthcare Network Intelligence
+# 🏥  Healthcare Network Intelligence: A Unified SQL Predictive Framework & Power BI Command Centre
 ### Predictive SQL Analytics & NHS Power BI Command Centre
 
 > *"The difference between data and intelligence is the story it tells."*
